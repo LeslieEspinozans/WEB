@@ -1,0 +1,59 @@
+{
+margin: 0;
+padding: 0;
+}
+
+#contenedor{
+width: 1000px;
+height: 3700px;
+background: #4f0842;
+margin: 0.5em auto;
+padding: 0.5em;
+}
+
+#header{
+height:8%;
+background:#000000;
+border-radius: 1em;
+margin: 1em;
+}
+
+#nav{
+height:1%;
+background:#000000;
+border-radius: 1em;
+margin: 1em;
+}
+
+#Contenido{
+height:79%;
+background:#000000;
+border-radius: 1em;
+margin: 1em;
+}
+
+
+#section {
+height:70%;
+widh:99%
+background:#000000;
+border-radius: 1em;
+margin: 1em;
+}
+
+#aside{
+height:95%;
+width: 90%;
+background:#4f0841;
+border-radius: 1em;
+margin: 1em;
+}
+
+#footer{
+height:4%;
+background:#800003;
+border-radius: 1em;
+margin:3em;
+}
+floot: right;
+floot: left;
